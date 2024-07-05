@@ -7,7 +7,7 @@
 # Contents ---------------------------------------------------------------------
 # 0. Dummy data and R packages
 # 1. Mapping study/sampling locations
-# 2. COMING SOON....
+# 2. Pie map
 # X. Useful external resources
 
 # 0. Dummy data and R packages -------------------------------------------------
@@ -98,7 +98,7 @@ sbar(500, xy = "bottomleft", label="500km", cex = 0.7)
 
 # If you prefer ggplot for visualisations, check out the tidyterra package
 
-# 2. Pie map.... ---------------------------------------------------------------
+# 2. Pie map ---------------------------------------------------------------
 
 # For this example, we're going to assume that each point in the quokka dataset
 # is not a single individual, but a group of individuals. We're going to assign a
